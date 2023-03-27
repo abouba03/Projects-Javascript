@@ -1,0 +1,20 @@
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    background-color: rgb(14, 7, 7);
+    color: aliceblue;
+}
+h1{
+    font-size: 90px;
+}
+span{
+    font-size: 30px;
+}
+.img-user{
+    width: 400px;
+    height: 400px;
+    color: aqua;
+}
